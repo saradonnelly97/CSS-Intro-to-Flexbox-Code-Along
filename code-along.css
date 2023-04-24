@@ -3,7 +3,7 @@
 }
 
 nav {
-  /*display: none;*/
+  display: none;
 }
 
 img {
@@ -14,10 +14,10 @@ img {
 section  {
   display: flex;
   flex-wrap: wrap;
-  /* justify-content: center; */
-  /* justify-content: space-around; */
+  justify-content: center;
+  column-gap: 1em;
   /* justify-content: space-between; */
-  justify-content: space-evenly;
+  /* justify-content: space-evenly; */
 }
 
 .container {
